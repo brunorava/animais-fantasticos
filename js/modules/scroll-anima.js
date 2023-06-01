@@ -28,6 +28,7 @@ export default class ScrollAnima {
     });
   }
 
+
   init() {
     if (this.sections.length) {
       this.getDistance();
